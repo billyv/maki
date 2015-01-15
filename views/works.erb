@@ -1,0 +1,13 @@
+
+
+<% @works.each_slice(3) do |three_works| %>
+<div class="row" name="works-grid">
+  <% three_works.each do |work| %>
+  <div class="col-md-4">
+    <div class="row">
+      <!-- do something here -->
+    </div>
+  </div>
+  <% end %>
+</div> <!-- /row works-grid -->
+<% end %>

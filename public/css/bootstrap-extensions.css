@@ -1,0 +1,59 @@
+.col-md-2.no-gutter {
+  padding-right: 4px;
+}
+.col-md-10.no-gutter {
+  padding-left: 0px;
+}
+.lg-spacer {
+  margin-top: 40px;
+}
+.md-spacer {
+  margin-top: 20px;
+}
+.btn-xl {
+  padding: 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: none;
+}
+.icon-holder {
+  font-size: 24px;
+}
+.icon {
+  height: 24px;
+}
+.button-icon {
+  height: 14px;
+}
+.friend {
+  font-size: 42px;
+}
+.inline-items h1, .inline-items a{
+  display: inline-block;
+  vertical-align: baseline;
+}
+.gap {
+  margin-left: 70px;
+}
+.grad1 {
+  background: -moz-linear-gradient(bottom right, red 0%, #8A2E5C 70%); /* FF3.6+ */
+  background: -webkit-linear-gradient(left top, red 0%, #8A2E5C 70%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(bottom right, red 0%,#8A2E5C 70%); /* Opera11.10+ */
+  background: linear-gradient(to bottom right, red 0%,#8A2E5C 70%); /* W3C */
+  background-attachment: fixed;
+}
+.login {
+  color: white;
+}
+h1 {
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+}
+h1.title {
+  font-family: 'Raleway Dots', cursive;
+  font-size: 48px;
+  color: white;
+}
+.fadefriend {
+  padding: 10px;
+  font-size: 20px;
+}
